@@ -1,0 +1,26 @@
+body {
+    background-color: lavender;
+    border-style:solid;
+    border-color: black;
+    border-width: 5px;
+}
+
+h1 {
+    text-align: center;
+    color:darkblue;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+}
+
+h3 {
+    text-align: center;
+    color:darkgreen
+}
+
+
+#map {
+    width: 95vw;
+    height: 36vw;
+    left: 20px;
+}
