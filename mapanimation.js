@@ -77,7 +77,7 @@ function moveMarker(marker,bus) {
 
 function getMarker(id){
 	var marker = markers.find(function(item){
-		return item.VehicleID === id;
+		return item.id === id;
 	});
 	return marker;
 }
